@@ -4,19 +4,6 @@ A polished desktop app for downloading YouTube videos and playlists as MP3 files
 Built on **yt-dlp** + **tkinter**. No browser extension. No account needed.
 
 ---
-
-## Quick Start
-
-```bash
-# 1. Install dependencies + create a launcher
-python install.py
-
-# 2. Run
-python main.py
-```
-
----
-
 ## Requirements
 
 | Dependency | Why |
